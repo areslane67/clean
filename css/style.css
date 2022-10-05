@@ -71,3 +71,7 @@ header h1{
 .hidden:nth-child(2n + 2) {
     margin-top: -.7rem;
 }
+li.hidden{
+    color: #fff;
+    background-color: #2B2A33;
+}
